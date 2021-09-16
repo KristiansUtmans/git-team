@@ -1,3 +1,4 @@
+lion orange
 lion blue
 tiger
 leopard
